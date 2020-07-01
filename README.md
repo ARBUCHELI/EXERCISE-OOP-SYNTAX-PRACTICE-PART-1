@@ -1,5 +1,7 @@
 # EXERCISE-OOP-SYNTAX-PRACTICE-PART-1
 
+## Disclaimer: This exercise was Created by Udacity (AWS Machine Learning Foundations Course) (Solution of the exercise and adaptation as a repository: Andrés R. Bücheli.)
+
 Coding objects in Python.
 
 # Use the Shirt Class
