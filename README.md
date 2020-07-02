@@ -1,6 +1,6 @@
 # EXERCISE-OOP-SYNTAX-PRACTICE-PART-1
 
-## Disclaimer: This exercise was Created by Udacity (AWS Machine Learning Foundations Course) (Solution of the exercise and adaptation as a repository: Andrés R. Bücheli.)
+## Disclaimer: This exercise was Created by Udacity (AWS Machine Learning Foundations Course) (Solution of the exercise and adaptation as a repository: Andrés R. Bucheli.)
 
 Coding objects in Python.
 
@@ -112,4 +112,4 @@ from tests import run_tests
 
 run_tests(shirt_one, shirt_two, total, total_discount)
 
-# Solution of the exercise and adaptation as a Repository: Andrés R. Bücheli.
+# Solution of the exercise and adaptation as a Repository: Andrés R. Bucheli.
