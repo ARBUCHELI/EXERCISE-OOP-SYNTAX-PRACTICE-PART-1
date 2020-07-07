@@ -112,4 +112,4 @@ from tests import run_tests
 
 run_tests(shirt_one, shirt_two, total, total_discount)
 
-# Solution of the exercise and adaptation as a Repository: Andrés R. Bucheli.
+## Solution of the exercise and adaptation as a Repository: Andrés R. Bucheli.
